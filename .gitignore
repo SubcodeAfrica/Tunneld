@@ -1,0 +1,18 @@
+# Binaries (should only be in releases)
+tunneld*
+*.exe
+
+# Build artifacts
+bin/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
