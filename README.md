@@ -66,4 +66,4 @@ See all available versions on our [releases page](https://github.com/SubCodeAfri
 ---
 
 **Latest Version**: [v1.0.2](https://github.com/SubCodeAfrica/Tunneld/releases/latest)
-**Last Updated**: 2025-09-21 12:44:38 UTC
+**Last Updated**: 2025-09-21 13:44:50 UTC
